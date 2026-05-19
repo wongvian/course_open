@@ -1,5 +1,6 @@
 // Base URL ของ API (อาจจะดึงมาจาก config หรือ hardcode)
-const API_BASE = 'https://apiapp.snru.ac.th';
+//const API_BASE = 'https://admission.snru.ac.th';
+const API_BASE = 'https://admission.snru.ac.th';
 
 // ฟังก์ชันสำหรับแปลงรหัสประเภทนักศึกษาเป็นชื่อภาษาไทย
 function getStudentTypeDisplayName(stdtype) {

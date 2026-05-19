@@ -1,4 +1,4 @@
-const API_BASE = 'https://apiapp.snru.ac.th';
+const API_BASE = 'https://admission.snru.ac.th';
 
 // Global variables for export functionality
 let currentCourseDetail = null;
